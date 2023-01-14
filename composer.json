@@ -1,0 +1,15 @@
+{
+    "name": "elchibek/phpstorm-projects",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "elchibek1",
+            "email": "elchi.work00@gmail.com"
+        }
+    ],
+    "require": {}
+}
